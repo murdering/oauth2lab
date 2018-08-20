@@ -5,3 +5,8 @@ target/
 .classpath
 .project
 .settings
+.idea/misc.xml
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/oauth2lab.iml
